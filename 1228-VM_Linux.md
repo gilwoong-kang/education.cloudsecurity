@@ -1,3 +1,5 @@
+강길웅
+
 ### VM
 
 ![IMG_F0E103EA54AA-1](/Users/gilwoongkang/서재/skinfosec-edu/image/IMG_F0E103EA54AA-1.jpeg)
@@ -126,7 +128,12 @@ OS와 사용자 사이에서 interface를 제공하는 컴파일 된 프로그�
 - 입력 : <
 - 출력 : >, >> 
 
+> 더블이면 어펜드함. 싱글이면 오버라이트 
+
 #### Filter(|)
 
 앞에 수행한 명령 기반으로 뒷 명령 수행. 뒤에오는 명령은 표준 입력을 요하는 명령만 가능하다.
 
+#### 파일 권한
+
+Chmod 명령어로 권한 변경 가능. rwx-로 구성. read,write,excute,none.
