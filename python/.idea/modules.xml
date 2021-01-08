@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mymodule.iml" filepath="$PROJECT_DIR$/mymodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/skinfosec-edu-python.iml" filepath="$PROJECT_DIR$/skinfosec-edu-python.iml" />
     </modules>
   </component>
